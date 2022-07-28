@@ -1,0 +1,367 @@
+days,name,gender,weekday,yesterday_holiday,today_holiday,tommorow_holiday,event,today exam,today
+1,Prudhvi,male,monday ,1,1,1,1,1,1
+2,Prudhvi,male,tuesday,0,0,1,1,1,1
+3,Prudhvi,male,wednesday,0,1,1,1,1,1
+4,Prudhvi,male,thrusday,1,1,1,1,1,1
+5,Prudhvi,male,friday,1,1,1,1,1,1
+6,Prudhvi,male,saturday,1,0,0,1,0,0
+7,Prudhvi,male,sunday,0,0,0,0,0,0
+8,Prudhvi,male,monday ,0,1,1,0,1,0
+9,Prudhvi,male,tuesday,0,1,1,1,1,1
+10,Prudhvi,male,wednesday,0,1,1,1,1,0
+11,Prudhvi,male,thrusday,1,1,1,1,1,1
+12,Prudhvi,male,friday,0,1,1,1,1,0
+13,Prudhvi,male,saturday,0,0,1,1,0,1
+14,Prudhvi,male,sunday,0,0,0,0,0,0
+15,Prudhvi,male,monday ,1,1,1,1,1,0
+16,Prudhvi,male,tuesday,1,1,1,1,1,1
+17,Prudhvi,male,wednesday,1,0,1,1,1,1
+18,Prudhvi,male,thrusday,1,0,1,1,1,1
+19,Prudhvi,male,friday,0,1,1,1,1,1
+20,Prudhvi,male,saturday,1,1,1,1,1,0
+21,Prudhvi,male,sunday,0,0,0,0,0,0
+22,Prudhvi,male,monday ,1,1,1,0,1,1
+23,Prudhvi,male,tuesday,1,1,1,1,1,1
+24,Prudhvi,male,wednesday,1,1,1,0,1,0
+25,Prudhvi,male,thrusday,0,0,1,1,1,1
+26,Prudhvi,male,friday,0,0,1,0,1,1
+27,Prudhvi,male,saturday,0,0,1,1,1,1
+28,Prudhvi,male,sunday,0,0,0,0,0,0
+29,Prudhvi,male,monday ,1,1,1,1,0,1
+30,Prudhvi,male,tuesday,1,1,1,1,1,1
+31,Prudhvi,male,wednesday,1,1,1,1,1,1
+1,Prudhvi,male,thrusday,1,1,1,1,1,0
+2,Prudhvi,male,friday,1,1,1,1,1,1
+3,Prudhvi,male,saturday,1,1,0,0,1,0
+4,Prudhvi,male,sunday,0,0,0,0,0,0
+5,Prudhvi,male,monday ,1,1,1,1,1,1
+6,Prudhvi,male,tuesday,1,1,1,1,1,1
+7,Prudhvi,male,wednesday,1,1,1,1,1,1
+8,Prudhvi,male,thrusday,1,1,1,1,1,1
+9,Prudhvi,male,friday,1,1,1,1,1,0
+10,Prudhvi,male,saturday,1,0,1,1,0,1
+11,Prudhvi,male,sunday,0,0,0,0,0,0
+12,Prudhvi,male,monday ,1,1,0,0,1,1
+13,Prudhvi,male,tuesday,1,1,1,1,1,0
+14,Prudhvi,male,wednesday,1,1,1,1,1,0
+15,Prudhvi,male,thrusday,1,1,1,1,0,1
+16,Prudhvi,male,friday,1,0,0,1,1,0
+17,Prudhvi,male,saturday,0,1,0,1,1,1
+18,Prudhvi,male,sunday,0,0,0,0,0,0
+19,Prudhvi,male,monday ,1,0,1,1,1,1
+20,Prudhvi,male,tuesday,1,1,0,1,1,0
+21,Prudhvi,male,wednesday,1,1,1,1,1,1
+22,Prudhvi,male,thrusday,1,1,1,1,1,1
+23,Prudhvi,male,friday,1,1,1,1,1,0
+24,Prudhvi,male,saturday,0,0,0,0,1,0
+25,Prudhvi,male,sunday,0,0,0,0,0,0
+26,Prudhvi,male,monday ,0,1,1,1,1,1
+27,Prudhvi,male,tuesday,1,1,1,1,1,1
+28,Prudhvi,male,wednesday,1,1,1,1,0,1
+29,Prudhvi,male,thrusday,1,1,1,1,1,0
+30,Prudhvi,male,friday,1,1,1,1,1,1
+1,Vishal K,Male,monday ,1,0,1,0,1,1
+2,Vishal K,Male,tuesday,1,1,1,1,1,1
+3,Vishal K,Male,wednesday,1,1,1,1,1,1
+4,Vishal K,Male,thursday,1,1,1,0,1,1
+5,Vishal K,Male,friday,1,1,0,0,1,0
+6,Vishal K,male,saturday,0,1,1,0,1,0
+7,Vishal K,Male,sunday,0,0,0,0,0,0
+8,Vishal K,Male,monday,1,0,0,1,1,1
+9,Vishal K,Male,tuesday,0,1,0,0,0,0
+10,Vishal K,Male,wednesday,1,0,1,1,1,1
+11,Vishal K,Male,thursday,1,0,1,1,1,1
+12,Vishal K,Male,friday,0,0,1,0,1,1
+13,Vishal K,male,saturday,0,1,0,1,1,1
+14,Vishal K,male,sunday,0,0,0,0,0,0
+15,Vishal K,Male,monday,1,1,0,0,0,1
+16,Vishal K,Male,tuesday,1,1,1,0,1,0
+17,Vishal K,Male,wednesday,1,1,0,1,1,1
+18,Vishal K,Male,thursday,1,0,1,0,1,1
+19,Vishal K,male,friday,1,1,1,1,1,1
+20,Vishal K,Male,saturday,0,1,1,1,1,1
+21,Vishal K,Male,sunday,0,0,0,0,0,0
+22,Vishal K,male,monday,1,1,1,0,1,1
+23,Vishal K,Male,tuesday,1,0,1,0,1,1
+24,Vishal K,male,wednesday,0,1,1,1,1,1
+25,Vishal K,Male,thursday,1,1,0,1,1,1
+26,Vishal K,male,friday,1,1,0,0,1,1
+27,Vishal K,Male,saturday,0,0,1,0,1,0
+28,Vishal K,male,sunday,0,0,0,0,0,0
+29,Vishal K,Male,monday,1,0,1,1,1,1
+30,Vishal K,male,tuesday,1,1,1,1,1,1
+31,Vishal K,Male,wednesday,0,0,0,0,0,0
+1,Vishal K,Male,thursday,1,0,1,1,1,1
+2,Vishal K,Male,friday,0,0,1,1,1,1
+3,Vishal K,Male,saturday,0,1,0,1,1,0
+4,Vishal K,Male,sunday,0,0,0,0,0,0
+5,Vishal K,Male,monday,1,1,1,0,0,1
+6,Vishal K,male,tuesday,1,0,1,1,1,1
+7,Vishal K,Male,wednesday,0,1,0,1,1,1
+8,Vishal K,Male,thursday,0,0,1,1,1,0
+9,Vishal K,Male,friday,0,1,1,0,1,1
+10,Vishal K,Male,saturday,1,1,1,1,1,0
+11,Vishal K,Male,sunday,0,0,0,0,0,0
+12,Vishal K,Male,monday,1,0,1,1,1,1
+13,Vishal K,male,tuesday,1,0,0,1,0,1
+14,Vishal K,male,wednesday,1,0,1,1,1,0
+15,Vishal K,Male,thursday,1,1,1,1,0,0
+16,Vishal K,Male,friday,0,0,1,1,1,1
+17,Vishal K,Male,saturday,0,0,0,1,1,1
+18,Vishal K,Male,sunday,0,0,0,0,0,0
+19,Vishal K,male,monday,0,1,1,1,1,1
+20,Vishal K,Male,tuesday,1,0,1,1,1,1
+21,Vishal K,Male,wednesday,0,1,0,0,1,0
+22,Vishal K,male,thursday,0,0,1,1,1,1
+23,Vishal K,Male,friday,1,0,1,0,1,1
+24,Vishal K,male,saturday,1,1,0,1,0,0
+25,Vishal K,Male,sunday,0,0,0,0,0,0
+26,Vishal K,male,monday,1,1,1,1,1,1
+27,Vishal K,Male,tuesday,0,1,1,1,1,0
+28,Vishal K,male,wednesday,0,1,0,0,1,1
+29,Vishal K,Male,thursday,1,1,1,1,0,1
+30,Vishal K,Male,friday,0,1,1,1,1,1
+1,rahull,male,monday ,1,1,1,1,1,1
+2,rahull,male,tuesday,0,0,0,1,1,1
+3,rahull,male,wednesday,0,1,1,1,1,0
+4,rahull,male,thrusday,1,0,1,1,1,1
+5,rahull,male,friday,1,1,0,1,1,1
+6,rahull,male,saturday,1,0,0,1,1,1
+7,rahull,male,sunday,0,0,0,1,0,0
+8,rahull,male,monday ,1,1,1,0,1,1
+9,rahull,male,tuesday,0,1,1,0,1,1
+10,rahull,male,wednesday,0,1,0,1,1,1
+11,rahull,male,thrusday,1,1,1,0,1,1
+12,rahull,male,friday,0,0,1,0,1,1
+13,rahull,male,saturday,1,0,0,1,1,1
+14,rahull,male,sunday,0,0,0,1,0,0
+15,rahull,male,monday ,1,1,1,0,1,1
+16,rahull,male,tuesday,0,1,1,0,1,1
+17,rahull,male,wednesday,0,0,1,1,1,1
+18,rahull,male,thrusday,1,0,1,1,1,1
+19,rahull,male,friday,0,1,1,1,1,1
+20,rahull,male,saturday,1,1,0,0,1,1
+21,rahull,male,sunday,0,0,0,0,0,0
+22,rahull,male,monday ,1,1,1,0,0,1
+23,rahull,male,tuesday,1,1,1,1,1,1
+24,rahull,male,wednesday,0,1,0,1,0,1
+25,rahull,male,thrusday,0,0,1,1,1,1
+26,rahull,male,friday,0,0,1,1,0,1
+27,rahull,male,saturday,0,0,1,0,1,1
+28,rahull,male,sunday,0,0,0,0,0,0
+29,rahull,male,monday ,1,1,1,1,1,1
+30,rahull,male,tuesday,1,1,1,1,1,1
+31,rahull,male,wednesday,1,1,0,1,1,1
+1,rahull,male,thrusday,0,1,1,1,1,1
+2,rahull,male,friday,1,0,1,1,1,1
+3,rahull,male,saturday,1,1,0,1,0,1
+4,rahull,male,sunday,0,0,0,0,0,0
+5,rahull,male,monday ,0,1,1,1,1,1
+6,rahull,male,tuesday,1,1,0,1,1,1
+7,rahull,male,wednesday,1,1,1,1,1,1
+8,rahull,male,thrusday,1,1,1,0,1,1
+9,rahull,male,friday,1,1,0,1,1,1
+10,rahull,male,saturday,1,0,1,1,1,0
+11,rahull,male,sunday,0,0,0,0,0,0
+12,rahull,male,monday ,1,1,0,1,0,1
+13,rahull,male,tuesday,1,1,1,1,1,1
+14,rahull,male,wednesday,1,1,0,1,1,1
+15,rahull,male,thrusday,1,1,1,1,1,0
+16,rahull,male,friday,1,0,0,1,0,1
+17,rahull,male,saturday,0,1,0,1,1,1
+18,rahull,male,sunday,0,0,0,0,0,0
+19,rahull,male,monday ,1,0,1,0,1,1
+20,rahull,male,tuesday,1,1,0,1,1,1
+21,rahull,male,wednesday,1,1,1,1,1,1
+22,rahull,male,thrusday,1,1,1,1,1,1
+23,rahull,male,friday,1,1,1,1,1,1
+24,rahull,male,saturday,0,0,0,1,0,1
+25,rahull,male,sunday,0,0,0,0,0,0
+26,rahull,male,monday ,0,1,1,1,0,1
+27,rahull,male,tuesday,1,1,1,1,1,1
+28,rahull,male,wednesday,1,0,1,1,1,1
+29,rahull,male,thrusday,1,1,1,1,0,1
+30,rahull,male,friday,1,1,1,1,1,1
+1,Sharath,Male,monday ,0,1,1,1,0,1
+2,Sharath,Male,tuesday,1,0,1,1,0,1
+3,Sharath,Male,wednesday,1,0,1,1,1,1
+4,Sharath,Male,thrusday,1,0,1,1,1,1
+5,Sharath,Male,friday,1,1,0,1,1,1
+6,Sharath,Male,saturday,1,1,1,1,0,0
+7,Sharath,Male,sunday,0,0,0,0,0,0
+8,Sharath,Male,monday ,0,1,0,1,1,1
+9,Sharath,Male,tuesday,1,1,1,1,1,0
+10,Sharath,Male,wednesday,0,1,1,1,1,1
+11,Sharath,Male,thrusday,1,1,0,1,0,1
+12,Sharath,Male,friday,1,0,1,1,1,0
+13,Sharath,Male,saturday,1,1,0,1,1,1
+14,Sharath,Male,sunday,0,0,0,0,0,0
+15,Sharath,Male,monday ,1,1,1,0,1,1
+16,Sharath,Male,tuesday,1,1,1,1,1,1
+17,Sharath,Male,wednesday,1,0,0,1,1,1
+18,Sharath,Male,thrusday,1,1,1,1,1,1
+19,Sharath,Male,friday,0,1,1,1,1,1
+20,Sharath,Male,saturday,1,1,0,1,1,1
+21,Sharath,Male,sunday,0,0,0,0,0,0
+22,Sharath,Male,monday ,1,1,1,1,1,1
+23,Sharath,Male,tuesday,1,1,1,1,1,1
+24,Sharath,Male,wednesday,1,1,1,1,1,1
+25,Sharath,Male,thrusday,1,0,1,1,1,1
+26,Sharath,Male,friday,1,0,1,1,1,1
+27,Sharath,Male,saturday,0,1,1,1,1,1
+28,Sharath,Male,sunday,0,0,0,0,0,0
+29,Sharath,Male,monday ,1,1,1,1,0,0
+30,Sharath,Male,tuesday,1,1,0,1,1,1
+31,Sharath,Male,wednesday,1,1,1,1,1,1
+1,Sharath,Male,thrusday,0,0,1,1,1,1
+2,Sharath,Male,friday,0,1,1,1,1,0
+3,Sharath,Male,saturday,1,1,1,1,0,1
+4,Sharath,Male,sunday,0,0,0,0,0,0
+5,Sharath,Male,monday ,1,1,1,1,1,1
+6,Sharath,Male,tuesday,1,1,1,1,0,1
+7,Sharath,Male,wednesday,1,0,1,0,1,1
+8,Sharath,Male,thrusday,0,1,0,1,0,1
+9,Sharath,Male,friday,1,1,1,1,1,1
+10,Sharath,Male,saturday,1,0,0,1,1,1
+11,Sharath,Male,sunday,0,0,0,0,0,0
+12,Sharath,Male,monday ,1,0,0,0,1,0
+13,Sharath,Male,tuesday,1,1,1,1,1,1
+14,Sharath,Male,wednesday,1,1,1,1,1,1
+15,Sharath,Male,thrusday,1,0,1,1,1,1
+16,Sharath,Male,friday,1,1,0,1,0,0
+17,Sharath,Male,saturday,1,0,0,1,1,1
+18,Sharath,Male,sunday,0,0,0,0,0,0
+19,Sharath,Male,monday ,0,1,1,1,1,1
+20,Sharath,Male,tuesday,1,1,0,1,1,1
+21,Sharath,Male,wednesday,0,0,1,1,1,1
+22,Sharath,Male,thrusday,0,1,0,1,0,1
+23,Sharath,Male,friday,1,1,0,1,0,0
+24,Sharath,Male,saturday,1,0,1,1,0,1
+25,Sharath,Male,sunday,0,0,0,0,0,0
+26,Sharath,Male,monday ,0,1,1,1,1,1
+27,Sharath,Male,tuesday,1,1,1,1,1,1
+28,Sharath,Male,wednesday,1,1,0,1,1,0
+29,Sharath,Male,thrusday,1,0,1,0,1,1
+30,Sharath,Male,friday,1,0,0,1,1,0
+1,aakash,male,monday ,0,0,0,1,1,1
+2,aakash,male,tuesday,1,0,1,1,0,1
+3,aakash,male,wednesday,0,1,1,1,1,1
+4,aakash,male,thursday,1,1,0,1,1,1
+5,aakash,male,friday,1,0,1,1,0,1
+6,aakash,male,saturday,1,1,0,1,1,1
+7,aakash,male,sunday,0,0,0,0,0,0
+8,aakash,male,monday,0,1,1,1,1,1
+9,aakash,male,tuesday,1,1,0,0,0,1
+10,aakash,male,wednesday,1,0,0,1,1,1
+11,aakash,male,thursday,0,1,1,1,0,1
+12,aakash,male,friday,1,1,0,1,0,1
+13,aakash,male,saturday,1,0,1,0,1,0
+14,aakash,male,sunday,0,0,0,0,0,0
+15,aakash,male,monday,1,1,1,1,1,1
+16,aakash,male,tuesday,0,1,1,1,1,0
+17,aakash,male,wednesday,0,0,1,1,1,1
+18,aakash,male,thursday,0,1,1,1,1,0
+19,aakash,male,friday,1,0,1,0,0,1
+20,aakash,male,saturday,1,1,1,1,1,1
+21,aakash,male,sunday,0,0,0,0,0,0
+22,aakash,male,monday,1,1,1,1,1,1
+23,aakash,male,tuesday,0,1,1,0,0,1
+24,aakash,male,wednesday,1,1,0,1,1,1
+25,aakash,male,thursday,0,0,1,1,1,0
+26,aakash,male,friday,1,1,0,1,0,1
+27,aakash,male,saturday,1,1,1,0,1,1
+28,aakash,male,sunday,0,0,0,0,0,0
+29,aakash,male,monday,1,1,1,0,1,1
+30,aakash,male,tuesday,0,1,1,1,1,0
+31,aakash,male,wednesday,1,1,0,1,0,1
+1,aakash,male,thursday,1,1,0,1,1,0
+2,aakash,male,friday,1,0,0,1,0,1
+3,aakash,male,saturday,0,1,1,1,1,0
+4,aakash,male,sunday,0,0,0,0,0,0
+5,aakash,male,monday,1,1,1,1,1,1
+6,aakash,male,tuesday,1,1,0,1,1,1
+7,aakash,male,wednesday,1,1,1,0,1,1
+8,aakash,male,thursday,1,0,1,1,0,0
+9,aakash,male,friday,0,0,1,0,1,1
+10,aakash,male,saturday,1,1,0,1,0,1
+11,aakash,male,sunday,0,0,0,0,0,0
+12,aakash,male,monday,1,0,1,1,1,1
+13,aakash,male,tuesday,1,0,1,1,1,1
+14,aakash,male,wednesday,1,0,1,1,0,0
+15,aakash,male,thursday,1,0,0,0,0,1
+16,aakash,male,friday,0,1,1,0,1,1
+17,aakash,male,saturday,1,1,0,1,0,0
+18,aakash,male,sunday,0,0,0,0,0,0
+19,aakash,male,monday,1,1,1,1,1,1
+20,aakash,male,tuesday,1,0,0,1,0,0
+21,aakash,male,wednesday,1,1,1,0,0,1
+22,aakash,male,thursday,1,1,1,0,1,1
+23,aakash,male,friday,0,0,1,1,0,1
+24,aakash,male,saturday,1,1,0,1,1,0
+25,aakash,male,sunday,0,0,0,0,0,0
+26,aakash,male,monday,1,1,0,1,1,1
+27,aakash,male,tuesday,1,1,1,1,0,1
+28,aakash,male,wednesday,1,0,1,0,1,0
+29,aakash,male,thursday,1,1,0,1,0,1
+30,aakash,male,friday,0,1,1,1,1,1
+1,srujan,male,monday ,1,0,1,1,1,1
+2,srujan,male,tuesday,1,0,1,1,1,1
+3,srujan,male,wednesday,0,0,1,1,1,1
+4,srujan,male,thursday,1,1,1,1,1,1
+5,srujan,male,friday,1,1,1,1,1,0
+6,srujan,male,saturday,1,1,1,0,1,1
+7,srujan,male,sunday,0,0,0,0,0,0
+8,srujan,male,monday,1,1,0,0,1,1
+9,srujan,male,tuesday,1,1,1,1,0,1
+10,srujan,male,wednesday,1,1,1,0,1,1
+11,srujan,male,thursday,1,1,1,0,1,0
+12,srujan,male,friday,1,1,1,0,1,1
+13,srujan,male,saturday,1,0,0,1,0,1
+14,srujan,male,sunday,0,0,0,0,0,0
+15,srujan,male,monday,0,0,1,1,1,1
+16,srujan,male,tuesday,0,1,1,1,1,1
+17,srujan,male,wednesday,0,0,1,1,1,1
+18,srujan,male,thursday,0,1,1,1,1,1
+19,srujan,male,friday,1,0,1,1,0,0
+20,srujan,male,saturday,1,1,1,0,1,1
+21,srujan,male,sunday,0,0,0,0,0,0
+22,srujan,male,monday,1,1,1,1,1,1
+23,srujan,male,tuesday,0,1,1,1,1,1
+24,srujan,male,wednesday,1,1,1,0,1,1
+25,srujan,male,thursday,0,0,1,1,1,1
+26,srujan,male,friday,1,1,1,0,1,0
+27,srujan,male,saturday,1,1,0,1,0,1
+28,srujan,male,sunday,0,0,0,0,0,0
+29,srujan,male,monday,1,1,1,1,0,1
+30,srujan,male,tuesday,1,1,1,1,1,1
+31,srujan,male,wednesday,1,1,1,1,1,1
+1,srujan,male,thursday,1,1,1,0,1,1
+2,srujan,male,friday,1,0,1,0,1,0
+3,srujan,male,saturday,0,1,0,1,1,1
+4,srujan,male,sunday,0,0,0,0,0,0
+5,srujan,male,monday,1,1,1,1,1,1
+6,srujan,male,tuesday,1,1,1,0,1,1
+7,srujan,male,wednesday,1,1,1,1,0,1
+8,srujan,male,thursday,1,1,1,1,1,1
+9,srujan,male,friday,0,0,0,1,0,1
+10,srujan,male,saturday,1,1,1,0,1,0
+11,srujan,male,sunday,0,0,0,0,0,0
+12,srujan,male,monday,1,0,1,1,1,1
+13,srujan,male,tuesday,1,0,1,1,1,1
+14,srujan,male,wednesday,1,0,1,1,1,0
+15,srujan,male,thursday,1,0,1,0,0,1
+16,srujan,male,friday,0,1,1,1,0,1
+17,srujan,male,saturday,1,1,1,0,1,0
+18,srujan,male,sunday,0,0,0,0,0,0
+19,srujan,male,monday,1,1,1,1,1,1
+20,srujan,male,tuesday,1,1,1,1,1,1
+21,srujan,male,wednesday,1,1,1,1,0,1
+22,srujan,male,thursday,1,1,1,1,0,1
+23,srujan,male,friday,0,0,1,1,1,0
+24,srujan,male,saturday,0,1,1,0,1,1
+25,srujan,male,sunday,0,0,0,0,0,0
+26,srujan,male,monday,1,1,0,1,1,1
+27,srujan,male,tuesday,1,1,1,1,1,0
+28,srujan,male,wednesday,1,1,1,1,0,1
+29,srujan,male,thursday,1,1,1,0,1,0
+30,srujan,male,friday,0,1,1,1,1,1

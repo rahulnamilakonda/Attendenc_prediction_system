@@ -1,0 +1,8 @@
+﻿name,gender,weekday,yesterday_holiday,today,tommorw,events,today
+harry,male,Monday,0,0,0,0,1
+shap,female,Tuesday,0,0,0,0,0
+shela,female,Wednesday,0,0,0,0,1
+jessie,female,Thursday,0,0,0,0,1
+john,male,Friday,0,0,0,0,1
+jacky,male,Saturday,0,0,0,0,1
+sheet,male,Sunday,0,0,0,0,0
